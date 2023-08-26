@@ -4,7 +4,7 @@
 <br/>
 🔗 LinkedIn https://www.linkedin.com/in/alston-s-nguyen/
 <br/>
-'Distributed' is so IN right now.
+Everything Distributed
 <br/>
 Distributed Systems, Distributed Message Brokers, Distributed Teams, Distributed Tracing
 
